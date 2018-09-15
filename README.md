@@ -13,3 +13,6 @@ Tailwag is an online resource for local dog owners to find and post about their 
 Dog owners can also add their own dog park to the map by simply entering a name, selecting features, and dropping a pin.
 
 Our hope is that Tailwag helps dog owners find and share new spaces and places to hang out with their furry friends. Keep wagging!
+
+### Where can I find Tailwag?
+Here is the link to Tailwag: https://jenniferbazelak.github.io/Tailwag/
